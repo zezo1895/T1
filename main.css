@@ -62,9 +62,6 @@
   /* start nav */
 nav{
 background-color: #fff;
-
-
-
 }
 
 nav .all{
@@ -173,22 +170,14 @@ max-width: 100%;
   padding: 0;
   margin: auto;
     position: relative;
-  
-    
 }
 .landing .text{
 position: absolute;
-
 left: 50%;
 top: 40%;
 transform: translate(-45%, -50%);
-
 width: 320px;
 max-width: 100%;
-
-
-
-
 }
 .landing h2{
   margin: 0;
@@ -214,18 +203,13 @@ max-width: 100%;
 }
 .boxs{
  display: flex;
-
 width: 100%;
 flex-wrap: wrap;
-
 }
 .feature .boxs .box{
 width: 210px;
 margin: 50px 85px;
 text-align: center;
-
-
-
 }
 .feature .boxs .box i{
 font-size: 50px;
@@ -346,7 +330,6 @@ margin-top: -40px;
   height: 380px;
   margin: 15px;
 }
-
 
 .Portfolio .all .box .image img{
   max-width: 100%;
@@ -519,7 +502,3 @@ color: #fff;
   footer .copy span{
     color: #10cab7;
   }
-
-
-
-
